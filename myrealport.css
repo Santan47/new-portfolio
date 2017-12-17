@@ -5,7 +5,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #340;
+    background-color: #333;
     position: fixed;
     top: 0;
     width: 100%;
@@ -25,9 +25,30 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #290;
+    color:#377902;
+    border-radius: 25px;
+    background-color: black;
 }
 
-.active {
-    background-color: #335;
+li a:active {
+    background-color: white;
+}
+.center{
+    color: #333;
+    text-align: center;
+    font-size: 50px;
+}
+p.capitalize {
+    text-transform: capitalize;
+}
+div.pic{ 
+    background: url("1.jpg");
+    background-repeat: no-repeat;
+    background-size: 900px 350px;
+    border-radius: 35px;
+    width: 800px;
+    height: 350px;
+    border: 25px solid #333;
+    margin: 25px;
+    margin-left: 180px;
 }
