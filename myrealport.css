@@ -148,7 +148,7 @@ div.container3 {
   background-repeat: no-repeat;
   background-size: 100% 60%;
   color: #333;
-  position: absolute;
+  position: relative;
   margin-top:50px;
   left: 883px;
   height: 350px;
