@@ -171,3 +171,41 @@ div.container3 {
       padding-bottom: 70px;
       height: 550px;
   }
+div.port1 {
+  background-image:url("portfoli/first-web.png");
+  
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  color: #333;
+  margin-top:50px;
+  left: 57px;
+  height: 250px;
+  width: 300px;
+  border-radius: 15px;
+}
+div.port2 {
+background-image:url("portfoli/kargil.png");
+
+  background-repeat: no-repeat;
+  background-size: 100% 80%;
+  color: #333;
+  margin-top:-298px;
+  margin-left: 435px;
+  left: 470px;
+  height: 250px;
+  width: 300px;
+    border-radius: 15px;
+}
+div.port3 {
+  background-image:url("portfoli/stone.png");
+  background-repeat: no-repeat;
+ 
+  background-size: 100% 80%;
+  color:#333;
+  margin-top:-298px;
+  margin-left: 867px;
+  left: 883px;
+  height: 250px;
+  width: 300px;
+    border-radius: 15px;
+}
