@@ -174,6 +174,9 @@ div.container3 {
       padding-bottom: 70px;
       height: 550px;
   }
+  .contain{
+    height: 900px;
+  }
 div.port1 {
   background-image:url("portfoli/first-web.png");
   
@@ -249,4 +252,67 @@ div.port6 {
   height: 250px;
   width: 300px;
     border-radius: 15px;
+}
+img.circle1{
+  border-radius: 50%;
+  width: 200px;
+  height: 230px;
+  margin-top: -250px;
+  margin-right: 505px;
+  border-width: 10px;
+  box-shadow: 2px 2px 4px #333, 0 0 25px #333, 0 0 80px #333;
+}
+.lining{
+  text-align:center; 
+  color:#566D5F;
+  text-shadow: 2px 2px 4px #333, 0 0 25px #333, 0 0 80px #333;
+}
+.left-text1{
+  text-align: right;
+  color: #566D5F;
+  margin-top: 100px;
+  width: 420px;
+  height: 200px;
+
+}
+.right-text1{
+  text-align:left;
+  color: #566D5F;
+  margin-left: 750px;
+  width: 420px;
+  height: 200px;
+}
+.left-text2{
+  text-align: right;
+  color: #566D5F;
+  width: 420px;
+  height: 200px;
+
+}
+img.circle2{
+  border-radius: 50%;
+  width: 200px;
+  height: 230px;
+  margin-top: -250px;
+  margin-right: 505px;
+  border-width: 10px;
+  box-shadow: 2px 2px 4px #333, 0 0 25px #333, 0 0 80px #333;
+}
+img.circle3{
+  border-radius: 50%;
+  width: 200px;
+  height: 230px;
+  margin-top: -250px;
+  margin-right: 505px;
+  border-width: 10px;
+  box-shadow: 2px 2px 4px #333, 0 0 25px #333, 0 0 80px #333;
+}
+img.circle4{
+  border-radius: 50%;
+  width: 200px;
+  height: 230px;
+  margin-top: 0px;
+  margin-right: 505px;
+  border-width: 10px;
+  box-shadow: 2px 2px 4px #333, 0 0 25px #333, 0 0 80px #333;
 }
