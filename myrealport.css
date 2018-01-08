@@ -316,3 +316,66 @@ img.circle4{
   border-width: 10px;
   box-shadow: 2px 2px 4px #333, 0 0 25px #333, 0 0 80px #333;
 }
+.name{
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-color: #333;
+    padding: 0px 15px;
+    margin-top: 20px;
+    margin-left: 50px;
+
+}
+.email{
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-color: #333;
+    padding: 0px 15px;
+}
+.phone{
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-color: #333;
+    padding: 0px 15px;
+    margin-top: 38px;
+    
+
+}
+.msg{
+    width: 500px;
+    height: 210px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #333;
+    padding: 12px 15px;
+    margin-top: -55px;
+    margin-left: 630px;
+
+}
+.fix{
+  margin-top: -174px;
+   margin-left: 12px;
+
+}
+.submit{
+  background-color: #333;
+  color: white;
+  font-size: 20px;
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: #333;
+  margin-left: 500px;
+  margin-top: 20px;
+
+}
+.submit:hover{
+  box-shadow: 2px 2px 4px #566D5F, 0 0 10px #566D5F, 0 0 2px #566D5F;
+}
